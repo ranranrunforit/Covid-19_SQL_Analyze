@@ -1,6 +1,6 @@
 Analyze time series COVID-19 data with SQL
 
-1. confirmed_covid.csv file is created with the help of R code named loading_data.R
+1. confirmed_covid.csv file is created with the help of R code named transforming_and_loading_data.R
 This csv is loaded into the mysql database - table confirmed_covid is created and used in an article
 
 2. transforming_and_loading_data.R - this R scripts takes three csv files that are provided by John Hopkins and then they are transformed 
